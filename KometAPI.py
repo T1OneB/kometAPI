@@ -16,8 +16,8 @@ class get:
     # RU: Функция получения информации об аккаунте по его API токену
     # EN: The function of obtaining information about an account by its API token
     def account(api_key):
-	    response = r.get(f"https://komet.space/api/v1/{api_key}/account").json()
-	    return response
+	response = r.get(f"https://komet.space/api/v1/{api_key}/account").json()
+	return response
     
     # RU: Функция получения всех ключей с API токена
     # EN: Function to get all keys from API token
