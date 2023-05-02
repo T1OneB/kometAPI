@@ -1,8 +1,8 @@
 # ИНФОРМАЦИЯ ПО API
-## kometAPI v1.0
-### kometAPI v1.0 - это API. Его основой является Web API сайта komet.space. И ниже вы можете прочитать и рассмотреть подробную документацию про него. Кстати, это API написано на ЯП Python...
-### Веб-сайт с документацией: https://t1oneb.github.io/kometAPI/
-### Пример работы API: https://github.com/T1OneB/kometAPI/blob/main/example.py
+## Python kometAPI v1.0
+### Python kometAPI v1.0 - это Python API. Его основой является Web API сайта komet.space. И ниже вы можете прочитать и рассмотреть подробную документацию про него. Кстати, это API написано на ЯП Python...
+### Веб-сайт с документацией о Python kometAPI: https://t1oneb.github.io/kometAPI/
+### Пример работы Python kometAPI: https://github.com/T1OneB/kometAPI/blob/main/example.py
 
 # ДОКУМЕНТАЦИЯ ПО API
 
