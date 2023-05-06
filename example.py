@@ -1,4 +1,4 @@
-# ПРИМЕТ РАБОТЫ БИБЛИОТЕКИ kometAPI
+# ПРИМЕР РАБОТЫ БИБЛИОТЕКИ kometAPI
 
 # Импортируем API библиотеку
 import KometAPI as api
