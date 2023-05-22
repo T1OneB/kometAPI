@@ -1,7 +1,7 @@
 # ИНФОРМАЦИЯ ПО API
 ## Python kometAPI v1.0
 ### Python kometAPI v1.0 - это Python API. Его основой является Web API сайта komet.space. И ниже вы можете прочитать и рассмотреть подробную документацию про него. Кстати, это API написано на ЯП Python...
-### Веб-сайт с документацией о Python kometAPI: https://t1oneb.github.io/kometAPI/
+### Веб-сайт с документацией о Python kometAPI: https://sites.google.com/view/kometapi/home
 ### Пример работы Python kometAPI: https://github.com/T1OneB/kometAPI/blob/main/example.py
 
 # ДОКУМЕНТАЦИЯ ПО API
